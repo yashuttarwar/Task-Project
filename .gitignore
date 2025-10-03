@@ -1,0 +1,11 @@
+# Backend Node modules
+backend/node_modules/
+
+# Frontend Node modules
+frontend/node_modules/
+
+# Frontend build folder
+frontend/build/
+
+# Log files
+*.log
